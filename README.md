@@ -1,7 +1,7 @@
 # Cafeteria Digital — Desafio de Projeto: Padrões de Projeto em Java
 
 Projeto desenvolvido para o desafio **"Explorando Padrões de Projeto na Prática"** (Digital Innovation One).
-Em vez de apenas reproduzir os exemplos originais, criei um domínio próprio — uma cafeteria digital —
+Em vez de apenas reproduzir os exemplos originais, criei um domínio próprio (uma cafeteria digital)
 para aplicar os padrões de forma mais próxima de um cenário real de portfólio, combinando os três
 padrões trabalhados em aula com dois padrões adicionais.
 
